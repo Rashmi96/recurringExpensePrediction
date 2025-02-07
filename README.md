@@ -115,12 +115,3 @@ date,amount,description
 - **Predicted Expenses Table**
 - **Expense Trend Graph**
 
-## Future Enhancements
-- Support for multiple currencies and localized date formats.
-- Advanced ML models for improved forecasting accuracy.
-- Integration with financial APIs for real-time transaction tracking.
-- User authentication and secure storage of past reports.
-
-## License
-This project is licensed under the MIT License. Feel free to use and modify it as needed.
-
