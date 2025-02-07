@@ -1,0 +1,27 @@
+# Virtual Environment
+bank_env/
+venv/
+.env
+
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Logs and Temporary Files
+logs/
+*.log
+*.out
+*.pid
+.DS_Store
+
+# IDE Configurations
+.idea/
+*.swp
+
+# Streamlit Cache
+.streamlit/
+
+# Dependencies
+*.egg-info/
+*.dist-info/
